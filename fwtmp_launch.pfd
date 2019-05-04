@@ -1,0 +1,14 @@
+/pcfg"/fscl1/pscl1/psx12.5/psy19"/page2,1/zw
+/plot1,1/cont
+/xl"X(&mm)"
+/yl"Y(&mm)"
+/zamp
+/tt"Launch Field (Ex)"
+fwtmp_ex0.dat
+/plot2,1/zw
+/cont
+/xl"X(&mm)"
+/yl"Y(&mm)"
+/zamp
+/tt"Launch Field (Ey)"
+fwtmp_ey0.dat
